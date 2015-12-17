@@ -1,0 +1,28 @@
+name: affinity events
+favicon: null
+layout_spectrum: 0.2830286680255085
+typography_spectrum: 0.8307647341862321
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.36473571439273655
+  lightness: 0.9581825560890138
+  saturation: 0.8455049889162183
+  rhythmicContrast: 0.17564506689086556
+purpose: []
